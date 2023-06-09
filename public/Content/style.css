@@ -1,0 +1,84 @@
+/* File Name: This is my style.css file which contains all my style for all elements 
+ Name: Vrushali Pachchigar
+ Student ID: 301312727
+ Date: 9th June, 2023*/
+
+.introduction {
+  margin-top: 5%;
+  margin-right: 0;
+  font-weight: 500;
+  color: #343a40;
+}
+
+.introduction h1,
+h2 {
+  font-weight: bold !important;
+}
+
+.intro_image {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 10%;
+}
+
+.my_image {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 5%;
+  margin-left: 25%;
+}
+
+.my_image img {
+  border-radius: 50%;
+  overflow: hidden;
+  object-fit: cover;
+  height: 85%;
+  width: 70%;
+}
+
+.about_me {
+  margin-left: 0;
+  margin-top: 5%;
+  font-weight: 500;
+  color: #343a40;
+}
+
+.mission_stmt {
+  text-align: center;
+  margin-top: 2%;
+  margin-left: 5%;
+  font-weight: 500;
+}
+
+.aboutme {
+  margin-top: 50px !important;
+  text-align: center;
+  font-weight: 500;
+}
+
+.projects {
+  text-align: center;
+  font-weight: 500;
+  margin-top: 50px !important;
+}
+
+.contacts {
+  font-weight: 500;
+  margin-top: 50px !important;
+}
+
+.service {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.service img {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}
